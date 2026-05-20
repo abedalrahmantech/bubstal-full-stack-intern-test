@@ -1,0 +1,51 @@
+name,description,price,sku,image_url,category_name
+Wireless Bluetooth Headphones,Over-ear headphones with noise cancellation and 30-hour battery life,79.99,ELEC-001,https://picsum.photos/seed/headphones/400/400,Electronics
+USB-C Charging Cable,Fast charging cable compatible with most modern devices,12.99,ELEC-002,https://picsum.photos/seed/cable/400/400,Electronics
+Portable Power Bank,20000mAh portable charger with dual USB outputs,$45.99,ELEC-003,https://picsum.photos/seed/powerbank/400/400,Electronics
+Smart Watch,Fitness tracker with heart rate monitor and GPS,$199.99,ELEC-004,https://picsum.photos/seed/smartwatch/400/400,Electronics
+Wireless Mouse,Ergonomic wireless mouse with adjustable DPI,24.99,ELEC-005,https://picsum.photos/seed/mouse/400/400,Electronics
+Mechanical Keyboard,RGB backlit mechanical keyboard with Cherry MX switches,$89.99,ELEC-006,https://picsum.photos/seed/keyboard/400/400,Electronics
+Webcam HD 1080p,Full HD webcam with built-in microphone,39.99,ELEC-007,https://picsum.photos/seed/webcam/400/400,Electronics
+USB Hub 7-Port,Powered USB 3.0 hub with individual switches,$29.99,ELEC-008,https://picsum.photos/seed/usbhub/400/400,Electronics
+Men's Cotton T-Shirt,Classic crew neck t-shirt in 100% cotton,19.99,CLTH-001,https://picsum.photos/seed/tshirt/400/400,Clothing
+Women's Running Shoes,Lightweight breathable running shoes with memory foam insole,$74.99,CLTH-002,https://picsum.photos/seed/shoes/400/400,Clothing
+Denim Jeans Slim Fit,Classic slim fit denim jeans in dark wash,49.99,CLTH-003,https://picsum.photos/seed/jeans/400/400,Clothing
+Winter Puffer Jacket,Warm insulated puffer jacket with detachable hood,$129.99,CLTH-004,https://picsum.photos/seed/jacket/400/400,Clothing
+Wool Beanie Hat,Soft merino wool beanie in multiple colors,15.99,CLTH-005,https://picsum.photos/seed/beanie/400/400,Clothing
+The Great Gatsby,Classic novel by F. Scott Fitzgerald,9.99,BOOK-001,https://picsum.photos/seed/gatsby/400/400,Books
+JavaScript: The Good Parts,Essential guide to JavaScript programming,29.99,BOOK-002,https://picsum.photos/seed/jsbook/400/400,Books
+Clean Code,A handbook of agile software craftsmanship by Robert C. Martin,$39.99,BOOK-003,https://picsum.photos/seed/cleancode/400/400,Books
+Sapiens: A Brief History,A brief history of humankind by Yuval Noah Harari,16.99,BOOK-004,https://picsum.photos/seed/sapiens/400/400,Books
+The Pragmatic Programmer,Your journey to mastery - 20th Anniversary Edition,$49.99,BOOK-005,https://picsum.photos/seed/pragprog/400/400,Books
+Stainless Steel Water Bottle,Double-wall vacuum insulated 750ml bottle,24.99,HOME-001,https://picsum.photos/seed/bottle/400/400,Home & Kitchen
+Non-Stick Frying Pan,12-inch ceramic non-stick frying pan,$34.99,HOME-002,https://picsum.photos/seed/pan/400/400,Home & Kitchen
+Electric Kettle,1.7L stainless steel kettle with auto shut-off,29.99,HOME-003,https://picsum.photos/seed/kettle/400/400,Home & Kitchen
+Cutting Board Set,3-piece bamboo cutting board set,19.99,HOME-004,https://picsum.photos/seed/cuttingboard/400/400,Home & Kitchen
+Kitchen Scale Digital,Precision digital kitchen scale with tare function,$22.99,HOME-005,https://picsum.photos/seed/scale/400/400,Home & Kitchen
+Throw Pillow Covers,Set of 4 decorative throw pillow covers 18x18,$28.99,HOME-006,https://picsum.photos/seed/pillows/400/400,Home & Kitchen
+Yoga Mat Premium,6mm thick non-slip exercise mat with carrying strap,29.99,SPRT-001,https://picsum.photos/seed/yogamat/400/400,Sports & Outdoors
+Resistance Bands Set,Set of 5 exercise bands with different resistance levels,17.99,SPRT-002,https://picsum.photos/seed/bands/400/400,Sports & Outdoors
+Camping Tent 2-Person,Waterproof tent with easy setup and carrying bag,$89.99,SPRT-003,https://picsum.photos/seed/tent/400/400,Sports & Outdoors
+Jump Rope Speed,Adjustable speed jump rope with ball bearings,11.99,SPRT-004,https://picsum.photos/seed/jumprope/400/400,Sports & Outdoors
+Hiking Backpack 40L,Waterproof hiking backpack with multiple compartments,$59.99,SPRT-005,https://picsum.photos/seed/backpack/400/400,Sports & Outdoors
+Building Blocks Set,500-piece creative building blocks for ages 4+,34.99,TOYS-001,https://picsum.photos/seed/blocks/400/400,Toys & Games
+Board Game Strategy,Strategic board game for 2-4 players ages 10+,$44.99,TOYS-002,https://picsum.photos/seed/boardgame/400/400,Toys & Games
+Remote Control Car,Off-road RC car with rechargeable battery,39.99,TOYS-003,https://picsum.photos/seed/rccar/400/400,Toys & Games
+Puzzle 1000 Pieces,Landscape jigsaw puzzle for adults,14.99,TOYS-004,https://picsum.photos/seed/puzzle/400/400,Toys & Games
+Card Game Family,Fun card game for the whole family ages 7+,$12.99,TOYS-005,https://picsum.photos/seed/cardgame/400/400,Toys & Games
+Vitamin C Supplements,1000mg Vitamin C with Rose Hips 120 capsules,15.99,HLTH-001,https://picsum.photos/seed/vitamins/400/400,Health & Beauty
+Electric Toothbrush,Rechargeable sonic toothbrush with 3 modes,$49.99,HLTH-002,https://picsum.photos/seed/toothbrush/400/400,Health & Beauty
+Sunscreen SPF 50,Broad spectrum sunscreen lotion 200ml,12.99,HLTH-003,https://picsum.photos/seed/sunscreen/400/400,Health & Beauty
+Hand Cream Set,Set of 3 moisturizing hand creams,18.99,HLTH-004,https://picsum.photos/seed/handcream/400/400,Health & Beauty
+Car Phone Mount,Universal dashboard phone mount with suction cup,16.99,AUTO-001,https://picsum.photos/seed/phonemount/400/400,Automotive
+Car Vacuum Cleaner,Portable 12V car vacuum with HEPA filter,$34.99,AUTO-002,https://picsum.photos/seed/carvac/400/400,Automotive
+Tire Pressure Gauge,Digital tire pressure gauge with backlit display,9.99,AUTO-003,https://picsum.photos/seed/tiregauge/400/400,Automotive
+Car Air Freshener,Long-lasting vanilla scent air freshener 3-pack,7.99,AUTO-004,https://picsum.photos/seed/airfreshener/400/400,Automotive
+Garden Hose 50ft,Expandable garden hose with 8-pattern spray nozzle,$29.99,GARD-001,https://picsum.photos/seed/hose/400/400,Garden
+Pruning Shears,Professional bypass pruning shears with safety lock,18.99,GARD-002,https://picsum.photos/seed/shears/400/400,Garden
+Plant Pots Set,Set of 6 ceramic plant pots with drainage holes,$42.99,GARD-003,https://picsum.photos/seed/pots/400/400,Garden
+Garden Gloves,Thorn-proof gardening gloves with long cuffs,14.99,GARD-004,https://picsum.photos/seed/gloves/400/400,Garden
+Desk Organizer,Bamboo desk organizer with drawers and compartments,27.99,OFFC-001,https://picsum.photos/seed/organizer/400/400,Office Supplies
+Sticky Notes Pack,12-pack of colorful sticky notes 3x3 inches,$8.99,OFFC-002,https://picsum.photos/seed/stickynotes/400/400,Office Supplies
+Ballpoint Pens Set,20-pack premium ballpoint pens in blue and black,11.99,OFFC-003,https://picsum.photos/seed/pens/400/400,Office Supplies
+Notebook A5 Lined,Premium hardcover A5 notebook 200 pages,13.99,OFFC-004,https://picsum.photos/seed/notebook/400/400,Office Supplies
