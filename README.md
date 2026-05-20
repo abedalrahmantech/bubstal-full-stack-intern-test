@@ -32,3 +32,7 @@ npm run dev
 - **Frontend:** Product list with search + product detail page
 
 See `full-stack-20260520T122017Z-3-001/full-stack/README.md` and `API_SPEC.md` for full requirements.
+
+## Repository
+
+GitHub: [abedalrahmantech/bubstal-full-stack-intern-test](https://github.com/abedalrahmantech/bubstal-full-stack-intern-test)
