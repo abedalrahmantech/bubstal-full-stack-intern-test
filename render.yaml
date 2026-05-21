@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: bubstal-product-catalog
+    runtime: node
+    plan: free
+    rootDir: full-stack-20260520T122017Z-3-001/full-stack/backend
+    buildCommand: npm install && cd ../frontend && npm install && npm run build
+    startCommand: npm run start:prod
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production

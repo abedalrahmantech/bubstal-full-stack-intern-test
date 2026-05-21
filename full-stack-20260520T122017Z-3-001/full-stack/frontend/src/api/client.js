@@ -21,7 +21,7 @@
  *   await api.del('/api/products/1');
  */
 
-const BASE_URL = '';
+const BASE_URL = import.meta.env.VITE_API_URL || '';
 
 async function request(method, path, body = null, params = null) {
   let url = `${BASE_URL}${path}`;
