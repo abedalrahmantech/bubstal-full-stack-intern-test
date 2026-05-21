@@ -1,24 +1,16 @@
 const path = require('path');
 const fs = require('fs');
 const express = require('express');
-const app = require('./app');
 const { runMigrations } = require('./utils/migrate');
-const { getDb } = require('./db/connection');
-const { seed } = require('../scripts/seed');
 
 const PORT = process.env.PORT || 3000;
 const HOST = process.env.HOST || '0.0.0.0';
 
+// Migrations must run before requiring seed.js (it auto-runs seed on import).
 runMigrations();
+require('../scripts/seed');
 
-const { count: productCount } = getDb()
-  .prepare('SELECT COUNT(*) AS count FROM products')
-  .get();
-
-if (productCount === 0) {
-  seed();
-  console.log('✓ Database seeded');
-}
+const app = require('./app');
 
 const frontendDist = path.join(__dirname, '../../frontend/dist');
 if (fs.existsSync(frontendDist)) {
