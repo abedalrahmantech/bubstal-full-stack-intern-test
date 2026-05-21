@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "E-Commerce Product Catalog API — Coding Test Backend",
   "main": "src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "start": "node src/index.js",
     "start:prod": "node src/production.js",

@@ -4,8 +4,8 @@ services:
     runtime: node
     plan: free
     rootDir: full-stack-20260520T122017Z-3-001/full-stack/backend
-    buildCommand: npm install && cd ../frontend && npm install && npm run build
-    startCommand: npm run start:prod
+    buildCommand: npm install && cd ../frontend && npm install && npx vite build
+    startCommand: npm run setup && node src/production.js
     healthCheckPath: /api/health
     envVars:
       - key: NODE_ENV

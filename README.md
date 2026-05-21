@@ -39,25 +39,14 @@ GitHub: [abedalrahmantech/bubstal-full-stack-intern-test](https://github.com/abe
 
 ## Live deployment
 
-### Currently live (demo tunnel)
+### Live on Render (stable URL — works with laptop closed)
 
-While your PC is running the production server, the app is publicly available at:
+- **App + API:** https://bubstal-product-catalog.onrender.com
+- **API health:** https://bubstal-product-catalog.onrender.com/api/health
+- **Products:** https://bubstal-product-catalog.onrender.com/api/products
 
-- **App + API:** https://granted-applied-institutes-committees.trycloudflare.com
-- **API health:** https://granted-applied-institutes-committees.trycloudflare.com/api/health
-- **Products:** https://granted-applied-institutes-committees.trycloudflare.com/api/products
+Free tier sleeps after ~15 minutes of no traffic; first visit after sleep may take 30–60 seconds to wake up. The URL stays the same for as long as you keep the Render service.
 
-This uses a Cloudflare quick tunnel (temporary URL; changes if restarted).
+### Temporary tunnel (laptop must stay on)
 
-### Permanent hosting (Render — recommended)
-
-1. Open: https://dashboard.render.com/blueprint/new?repo=https://github.com/abedalrahmantech/bubstal-full-stack-intern-test
-2. Sign in with **GitHub** as `abedalrahmantech`
-3. Click **Apply** to deploy the `render.yaml` blueprint
-
-After deploy (~5 min):
-
-- **App + API:** `https://bubstal-product-catalog.onrender.com`
-- **API health:** `https://bubstal-product-catalog.onrender.com/api/health`
-
-The production server serves the React UI and REST API from one host.
+The `trycloudflare.com` URL only works while your computer is running the server and tunnel — **not** suitable if you close your laptop.
